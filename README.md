@@ -1,10 +1,10 @@
-<h1> Disney </h1>
+<h1> DisneyPlus </h1>
 
-https://user-images.githubusercontent.com/66790414/127543444-c2daf5bf-84a7-45a0-93ea-773724e4629d.jpg
-
-<h3> Status: Finalizado ❗ </h4>
+<h3> Status: Finalizado ❗ </h3>
 
 <p> Um clone da interface primária da famosa plataforma de filmes DisneyPlus. </p>
+
+![image1](https://user-images.githubusercontent.com/66790414/127543444-c2daf5bf-84a7-45a0-93ea-773724e4629d.jpg)
 
 <h4> tecnologias: </h4>
 
@@ -12,6 +12,9 @@ https://user-images.githubusercontent.com/66790414/127543444-c2daf5bf-84a7-45a0-
 + Css
 + Sass
 + JavaScript
+
+<h4> Responsivo </h4>
+
 
 <h4> Como executar o aplicativo: </h4>
 
