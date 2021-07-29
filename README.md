@@ -13,7 +13,7 @@
 + Sass
 + JavaScript
 
-<h4> Responsivo </h4>
+<h4> Responsivo: </h4>
 
 ![mobile](https://user-images.githubusercontent.com/66790414/127549677-c10d5b48-702d-4dad-804b-3c77cce86184.jpg)
 
