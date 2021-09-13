@@ -1,8 +1,8 @@
 <h1> DisneyPlus </h1>
 
-<h3> Status: Finalizado ❗ </h3>
-
 <p> Um clone da interface primária da famosa plataforma de filmes DisneyPlus. </p>
+
+<h3> Status: Finalizado ❗ </h3>
 
 <h4> tecnologias: </h4>
 
