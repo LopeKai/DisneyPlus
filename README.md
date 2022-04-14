@@ -4,10 +4,9 @@
 
 <h3> Status: Finalizado ❗ </h3>
 
-<h4> tecnologias: </h4>
+<h4> Tecnologias: </h4>
 
-+ Html
-+ Css
++ ReactJs
 + Sass
 + JavaScript
 
