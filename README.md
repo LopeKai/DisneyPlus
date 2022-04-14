@@ -6,8 +6,8 @@
 
 <h4> Tecnologias: </h4>
 
-+ ReactJs
-+ Sass
++ Html
++ Css
 + JavaScript
 
 ![image1](https://user-images.githubusercontent.com/66790414/127543444-c2daf5bf-84a7-45a0-93ea-773724e4629d.jpg)
@@ -30,8 +30,5 @@
 
 ![mobile](https://user-images.githubusercontent.com/66790414/127549677-c10d5b48-702d-4dad-804b-3c77cce86184.jpg)
 
-<h4> Como executar o aplicativo: </h4>
-
-1) Na pasta do projeto, abrir o arquivo INDEX no seu navegador preferido
 
 
